@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react_portfolio/static/css/main.bcd5da96.css",
+    "main.js": "/react_portfolio/static/js/main.9b9af1ac.js",
+    "static/media/project5.jpeg": "/react_portfolio/static/media/project5.8b83a7c100a50565c15e.jpeg",
+    "static/media/project3.jpeg": "/react_portfolio/static/media/project3.9c2f8de0277f2dc0ca6b.jpeg",
+    "static/media/project4.jpeg": "/react_portfolio/static/media/project4.972d1825b0d161b6a3c3.jpeg",
+    "static/media/project6.jpeg": "/react_portfolio/static/media/project6.552464064cd5594a840c.jpeg",
+    "static/media/project2.jpeg": "/react_portfolio/static/media/project2.bef3686a482e7ccfc59c.jpeg",
+    "static/media/support.jpeg": "/react_portfolio/static/media/support.174fad20787ace3005c9.jpeg",
+    "static/media/project1.jpeg": "/react_portfolio/static/media/project1.aeae4def2bd39c496141.jpeg",
+    "static/media/interoperability.jpeg": "/react_portfolio/static/media/interoperability.88325c1a395cd2f49f02.jpeg",
+    "static/media/maintenance.jpeg": "/react_portfolio/static/media/maintenance.960919dd9e10c3250a8c.jpeg",
+    "static/media/diagnostics.jpeg": "/react_portfolio/static/media/diagnostics.8d7d9a64006356aa4a1d.jpeg",
+    "static/media/menu.jpeg": "/react_portfolio/static/media/menu.bae73a300885e46929b9.jpeg",
+    "static/media/x.jpeg": "/react_portfolio/static/media/x.0a327cbb9a60771b9d90.jpeg",
+    "static/media/id.jpeg": "/react_portfolio/static/media/id.6dca681fa254290ae30c.jpeg",
+    "static/media/facebook.jpeg": "/react_portfolio/static/media/facebook.0838523d0627d04a8cd8.jpeg",
+    "static/media/youtube.jpeg": "/react_portfolio/static/media/youtube.c67843b7cf58671e4f9e.jpeg",
+    "static/media/instagram.jpeg": "/react_portfolio/static/media/instagram.67178cde569a9ed17f0d.jpeg",
+    "static/media/ehr.jpeg": "/react_portfolio/static/media/ehr.0a0a7201e756cd3e3ac0.jpeg",
+    "static/media/contact.jpeg": "/react_portfolio/static/media/contact.c2a455c99a06c2ce6ab9.jpeg",
+    "static/media/logo.jpeg": "/react_portfolio/static/media/logo.50add11105330ef4e3a3.jpeg",
+    "static/media/hireme.jpeg": "/react_portfolio/static/media/hireme.7a3d459d70f83a690dfc.jpeg",
+    "static/media/prog_lang.jpeg": "/react_portfolio/static/media/prog_lang.b166080d13cd23e250ec.jpeg",
+    "static/media/medterm.jpeg": "/react_portfolio/static/media/medterm.7613c3e8d20a7d0f0810.jpeg",
+    "index.html": "/react_portfolio/index.html",
+    "main.bcd5da96.css.map": "/react_portfolio/static/css/main.bcd5da96.css.map",
+    "main.9b9af1ac.js.map": "/react_portfolio/static/js/main.9b9af1ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcd5da96.css",
+    "static/js/main.9b9af1ac.js"
+  ]
+}
